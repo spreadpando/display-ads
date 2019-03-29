@@ -134,12 +134,21 @@ table {
 	border-spacing: 0;
 }
 
+html,
+body {
+	text-size-adjust: none;
+	-webkit-text-size-adjust: none;
+	-moz-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+}
+
 #ad-container {
 	font-family: 'Roboto Condensed', sans-serif;
 	position: absolute;
 	width: 100vw;
 	height: 100vh;
 	overflow: hidden;
+	background-color: white;
 }
 
 #text-container {
