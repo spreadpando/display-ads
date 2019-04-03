@@ -169,7 +169,7 @@ body {
 }
 
 #sub {
-	font-size: 12vh;
+	font-size: 13px;
 	font-weight: 400;
 	position: absolute;
 	width: 44%;
@@ -181,7 +181,7 @@ body {
 }
 
 #block-text {
-	font-size: 22vh;
+	font-size: 22px;
 	width: 30%;
 	line-height: 85%;
 	color: #686868;
@@ -193,7 +193,8 @@ body {
 }
 
 #promo-text {
-	margin: 53vh 0 0 1vw;
+	font-size: 20px;
+	margin: 45vh 0 0 1vw;
 }
 
 
@@ -215,10 +216,10 @@ body {
 
 button {
 	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 12vh;
+	font-size: 15px;
 	position: absolute;
 	right: 1vw;
-	bottom: 0.5vw;
+	bottom: 1vw;
 	background-color: white;
 	border-color: #686868;
 	color: #686868;

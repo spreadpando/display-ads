@@ -169,7 +169,7 @@ body {
 }
 
 #sub {
-	font-size: 18vh;
+	font-size: 32px;
 	font-weight: 400;
 	position: absolute;
 	width: 40%;
@@ -181,7 +181,7 @@ body {
 }
 
 #block-text {
-	font-size: 40vh;
+	font-size: 70px;
 	width: 65%;
 	line-height: 77%;
 	color: #686868;
@@ -193,7 +193,8 @@ body {
 }
 
 #promo-text {
-	margin: 33vh 0 0 1vw;
+	font-size: 40px;
+	margin: 30vh 0 0 1vw;
 }
 
 
@@ -212,7 +213,7 @@ body {
 
 button {
 	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 18vh;
+	font-size: 35px;
 	position: absolute;
 	right: 1vw;
 	bottom: 1vw;

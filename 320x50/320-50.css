@@ -169,7 +169,7 @@ body {
 }
 
 #sub {
-	font-size: 20vh;
+	font-size: 12px;
 	font-weight: 400;
 	position: absolute;
 	width: 42%;
@@ -181,9 +181,9 @@ body {
 }
 
 #block-text {
-	font-size: 27vh;
-	width: 35%;
-	line-height: 100%;
+	font-size: 18px;
+	width: 47%;
+	line-height: 85%;
 	color: #686868;
 	margin: 5vh 0 0 1vw;
 }
@@ -193,15 +193,15 @@ body {
 }
 
 #promo-text {
-	margin: 27vh 0 0 1vw;
+	margin: 12vh 0 0 1vw;
 }
 
 
 #mascot {
 	position: absolute;
 	top: -5%;
-	right: 50%;
-	height: 110%;
+	right: 40%;
+	height: 100%;
 }
 
 #logo {
@@ -215,7 +215,7 @@ body {
 
 button {
 	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 20vh;
+	font-size: 11px;
 	position: absolute;
 	right: 1vw;
 	bottom: 0.5vw;

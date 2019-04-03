@@ -169,7 +169,7 @@ body {
 }
 
 #sub {
-	font-size: 7vw;
+	font-size: 22px;
 	font-weight: 400;
 	position: absolute;
 	width: 100%;
@@ -180,7 +180,7 @@ body {
 }
 
 #block-text {
-	font-size: 15vw;
+	font-size: 44px;
 	width: 60%;
 	line-height: 76%;
 	color: #686868;
@@ -214,7 +214,7 @@ body {
 
 button {
 	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 7vw;
+	font-size: 22px;
 	position: absolute;
 	right: 1vw;
 	bottom: 1vw;
